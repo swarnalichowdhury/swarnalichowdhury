@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swarnali Chowdhury
-- 💞️ Currently in my 2nd year
+- 💞️ Currently in my 3rd year
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning C++
 - 📫 My email id - swarnalic.1811@gmail.com
