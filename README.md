@@ -1,6 +1,5 @@
 -  Hi, I’m Swarnali Chowdhury
--  Currently in my 3rd year
--  I’m currently learning C++
+-  Currently in my 4th year
 -  My email id - swarnalic.1811@gmail.com
 -  Fun fact: anime lover and can recommend the best series for any mood ;)
 
